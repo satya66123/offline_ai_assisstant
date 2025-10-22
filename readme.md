@@ -49,7 +49,7 @@ No cloud or GPT API required — everything runs locally.
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/offline-ai-assistant.git
+git clone https://github.com/satya66123/offline_ai_assisstant.git
 cd offline-ai-assistant
 ```
 
@@ -152,3 +152,4 @@ offline-ai-assistant/
 MIT License
 
 Do you want me to create that next?
+
