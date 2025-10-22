@@ -1,0 +1,12 @@
+1
+00:00:30,000 --> 00:00:31,079
+We can check with Marlowe.
+
+2
+00:00:43,000 --> 00:00:44,740
+Listen in the rain, now it's cold.
+
+3
+00:00:58,420 --> 00:00:59,219
+Not a dog here.
+
